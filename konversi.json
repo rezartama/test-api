@@ -1,5 +1,5 @@
 [
-  {"namaGambar: "rumus", "gambar": "https://github.com/rezartama/test-api/blob/main/rumus.jpeg"},
-   {"namaGambar: "tampilan", "gambar": "https://github.com/rezartama/test-api/blob/main/tampilan.jpeg"},
-   {"namaGambar: "penemu", "gambar": "https://github.com/rezartama/test-api/blob/main/penemu.jpeg"},
+  {"namaGambar": "rumus", "gambar": "https://github.com/rezartama/test-api/blob/main/rumus.jpeg"},
+   {"namaGambar": "tampilan", "gambar": "https://github.com/rezartama/test-api/blob/main/tampilan.jpeg"},
+   {"namaGambar": "penemu", "gambar": "https://github.com/rezartama/test-api/blob/main/penemu.jpeg"},
   ]
