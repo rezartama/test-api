@@ -1,5 +1,5 @@
 [
-  {"namaGambar": "Rumus", "deskripsi": "Deskripsi dari rumus", "gambar": "https://github.com/rezartama/test-api/blob/main/rumus.jpeg", "picture": "rumus"},
-  {"namaGambar": "Tampilan", "deskripsi": "Deskripsi dari tampilan", "gambar": "https://github.com/rezartama/test-api/blob/main/tampilan.jpeg", "picture": "tampilan"},
-  {"namaGambar": "Penemu", "deskripsi": "Deskripsi dari penemu", "gambar": "https://github.com/rezartama/test-api/blob/main/penemu.jpeg", , "picture": "penemu"}
+  {"namaGambar": "Rumus", "deskripsi": "Deskripsi dari rumus", "gambar": "https://raw.githubusercontent.com/rezartama/test-api/main/rumus.jpeg", "picture": "rumus"},
+  {"namaGambar": "Tampilan", "deskripsi": "Deskripsi dari tampilan", "gambar": "https://raw.githubusercontent.com/rezartama/test-api/main/tampilan.jpeg", "picture": "tampilan"},
+  {"namaGambar": "Penemu", "deskripsi": "Deskripsi dari penemu", "gambar": "https://raw.githubusercontent.com/rezartama/test-api/main/penemu.jpeg", "picture": "penemu"}
 ]
