@@ -1,5 +1,6 @@
 [
   {"namaGambar": "Rumus", "deskripsi": "Deskripsi dari rumus", "gambar": "https://github.com/rezartama/test-api/blob/main/rumus.jpeg"},
   {"namaGambar": "Tampilan", "deskripsi": "Deskripsi dari tampilan", "gambar": "https://github.com/rezartama/test-api/blob/main/tampilan.jpeg"},
-  {"namaGambar": "Penemu", "deskripsi": "Deskripsi dari penemu", "gambar": "https://github.com/rezartama/test-api/blob/main/penemu.jpeg"}
+  {"namaGambar": "Penemu", "deskripsi": "Deskripsi dari penemu", "gambar": "https://github.com/rezartama/test-api/blob/main/penemu.jpeg"},
+  {"namaGambar": "Test", "deskripsi": "Deskripsi dari test", "gambar": "https://github.com/rezartama/test-api/blob/main/test.jpeg"}
 ]
